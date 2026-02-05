@@ -1,5 +1,5 @@
 # Ex. No: 6 Identifying MAC and IP Addresses Using Packet Tracer
-# Date:
+# Date:05-02-2026
 ________________________________________
 # Objective
 To use Cisco Packet Tracer simulation mode to capture and analyze MAC and IP address information for both local and remote network communication.
@@ -48,9 +48,36 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 172.16.31.2	00D0:D311:C788	000C:85CC:1DA7	172.16.31.2	172.16.31.5<br>
 ________________________________________
 # Output (Screenshots)
-•	PDU details for local communication<br>
+•	PDU details for local communication (172.16.31.5)<br>
+<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/2bc69e7d-7c0e-4c33-9943-043f7ce98343" />
+
+• reaches PC-B<br>
+
+<img width="1919" height="1078" alt="2" src="https://github.com/user-attachments/assets/7f90b538-e78c-4825-855f-2e946ab23cf5" />
+
+•PDU details for local communication to (172.16.31.3)<br>
+
+<img width="1919" height="1079" alt="3" src="https://github.com/user-attachments/assets/3448ce10-fd67-4dd3-8723-8b2f0ee3d4f2" />
+
+•PDU details for local communication Ping from 172.16.31.3 to 172.16.31.2 <br> 
+
+<img width="1919" height="1079" alt="6" src="https://github.com/user-attachments/assets/7f2a4a3b-c990-4f0a-a849-6d537d185d71" />
+
+•PDU details for local communication Ping from 172.16.31.5 to 172.16.31.4 <br>
+
+<img width="1919" height="1079" alt="5" src="https://github.com/user-attachments/assets/82d18a39-f89d-4788-bd48-b3277a23f1c5" />
+
 •	PDU details for remote communication<br>
+<img width="1919" height="1079" alt="7" src="https://github.com/user-attachments/assets/84014d31-8b83-4293-bd02-1c73b64dab7b" />
+
+<img width="1919" height="1079" alt="6" src="https://github.com/user-attachments/assets/ca721f6f-d8f0-43e0-a525-a420b1378a60" />
+
 •	Tables showing MAC/IP changes through each device<br>
+
+<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/67fc553c-57a5-49bb-9800-ed6959dc6cc1" />
+
+<img width="1919" height="1079" alt="9" src="https://github.com/user-attachments/assets/c43830ef-219c-4932-8c66-48793e5598b5" />
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
