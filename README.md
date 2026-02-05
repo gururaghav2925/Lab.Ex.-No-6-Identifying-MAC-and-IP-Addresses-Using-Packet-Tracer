@@ -68,9 +68,12 @@ ________________________________________
 <img width="1919" height="1079" alt="5" src="https://github.com/user-attachments/assets/82d18a39-f89d-4788-bd48-b3277a23f1c5" />
 
 •	PDU details for remote communication<br>
-<img width="1919" height="1079" alt="7" src="https://github.com/user-attachments/assets/84014d31-8b83-4293-bd02-1c73b64dab7b" />
 
 <img width="1919" height="1079" alt="6" src="https://github.com/user-attachments/assets/ca721f6f-d8f0-43e0-a525-a420b1378a60" />
+
+• Successfull ping From PC-A (172.16.31.5) to  10.10.10.2.
+
+<img width="1919" height="1079" alt="7" src="https://github.com/user-attachments/assets/84014d31-8b83-4293-bd02-1c73b64dab7b" />
 
 •	Tables showing MAC/IP changes through each device<br>
 
