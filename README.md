@@ -81,6 +81,9 @@ ________________________________________
 
 <img width="1919" height="1079" alt="9" src="https://github.com/user-attachments/assets/c43830ef-219c-4932-8c66-48793e5598b5" />
 
+
+<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/218aa94e-73d7-4f1f-9842-f5f4fd0f7dee" />
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
